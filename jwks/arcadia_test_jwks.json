@@ -2,10 +2,11 @@
   "keys": [
     {
       "kty": "RSA",
+      "alg": "RS384",
       "use": "sig",
-      "kid": "3dcbcacf-c009-4966-9742-225e73a9127a",
-      "n": "2WbJE3NvfKlis0cbPhvPD70NftJ9NUK0PLvLuRA88jhEPad2ecS72IgTHR92VRXTgoEQoKRrEmjVEiYnmcaIhS5TNOPj7fgJp2SqMYdBjnUWf3eOrBlwdeVj3W0eIrUohpz0PCXYm_IeOKmCtlBmu1fS2m_Y9xksG8X5X85co_c7WGPDfMjMdTEgA0BH7o74ENElIoLaCQ7wYKFXqtyNF8VWaS6PAdnQeAXf7RdfB5mys-Cnu0IuCzwmt1xgL-pDhv7BiLrbojr9HIZGvwTgxvpTqpE_GbAAxrBDdpeEq0M4k5Y_rBpdKS_z5jIQu0NfPD-QN11YUGqT0Lfo5TSWCQ",
-      "e": "AQAB"
+      "n": "lnNeCKJ3o0XUAFU26vvCliX3SwKbCREHX6Swy5QzuvSaxRRhlNiOWBwyWYZs2-3WqtGe7hsVAQeQhF2A4AXEUDFVQCu_OO3j8-H8tGsk49QXiF3x7mBdOlQdxi_vmYgUYGK6lMxPDZevD9dfQKo4g-8GeHuTc16-Mk7LN-RGAlMeHdTI0xhAQIAfkjOJC9XO6sMcImMtSAfTUT7kcZ_szO4DOgszvNCR9lzR-gQZw5msPXe4MzOf766V34BSF4cUe9yCijnmzNRImWjIk3GPXh4TbIB57lDg45d9mUFqzgmkL9xkgZA67QNHkCyPWljYvzUKBXjo0nr53GL5VK235w",
+      "e": "AQAB",
+      "kid": "YoQLfVPd4yndWEHvLeQXWw"
     }
   ]
 }
