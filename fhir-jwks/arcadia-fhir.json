@@ -1,0 +1,15 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "xgOfbuUCVfVCRXF1SfLR2jBJmFoeo4ohGi5SfiH1PNYxS30GhgLixrWdpX4EzK8R0kOkXQQs1hTZqi_mGM5LK2Z6PEOy2hcHqjIpYBJswwLfoCLxDtGlSy4dhocV-fay4mkCdgS6b5zgfh5rMTYCU2cMWppOW19qX4N6BPKji7AGRSYyoUYO6LjbB3cKVRXKeF7F4rylvX3NhFzLdaNu934Oe16A_G7jAWEt_28G-zpQgZqrsgqp1wWzMFs4ftRiPKJEpgIwYt-lbnxA7e3CMnskX1IiWEc9KUNhJw10vZp0CAnyQnisruPmZZHoRLtB352_MC5P3Hn3UVXL_YBTJg8hHwF72x04JyFz6I4fwBpoOsaTc0cp8iR7Zaaf47q3JZJK4z1DZ1_9zTPr9RWJKSIasFy0sj-EfbnXZiXrcrGIN-JFrAL7ULGn66Kdv6hmNw0ELnLmKcLQLv3qTElhxsT3kqr7QrIYc0qJ91Od_0WazVFJ_ZhJpmVnbA1hV6lFG3aqTDLqz0fA5LABF4Mcl6cvSF8yWY6e8FNFd1Yj5Z1TREsrCIxJlIkCE8rnM_xV40tS9OYSiyj3Y_e96k59QRYmkJ5GZLitcCV4A55u9n6e2TZgarTAk0K_sNn6UV5r_FrCXlSgx-tvP69_15tQzWVaNtGU9qpw9wLYO79Xk9k",
+      "e": "AQAB",
+      "kid": "e5649a87-e0b8-4a75-89be-c16c7d2a4a60",
+      "use": "sig",
+      "key_ops": [
+        "verify"
+      ],
+      "alg": "RS384"
+    }
+  ]
+}
